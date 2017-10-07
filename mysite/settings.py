@@ -25,7 +25,7 @@ SECRET_KEY = 'lkp%4abcis1dl4%6w_3k4258f*ll&3d01q4gq7w$l@-+$#waru'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['camilla.pythonanywhere.com']
 
 
 # Application definition
